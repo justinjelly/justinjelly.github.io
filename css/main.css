@@ -1,6 +1,11 @@
 body {
     margin: 60px auto;
     width: 70%;
+   
+    /*background-image: url("repeated-square.png"); /*github: add a '/' */
+    background-color: black;
+    background: url("/dot-grid.png"); /*spiration dark.png pw_maze_black.png repeated-square.png*/
+    background-size: 20vw;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
